@@ -1,4 +1,3 @@
-- ## Documentação API Mobile
 - ## Módulo Gestão Escolar
 - ## Nível aluno
 - ## [Começando](/api/{{version}}/api-student-getting-started)

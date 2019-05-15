@@ -15,8 +15,6 @@ Lista as disciplinas inclusas na matrícula do aluno.
 |--------|-------------------------------------------------|
 | GET   | https://api.marciodias.me/api/v1/school/student/disciplines |
 
----
-
 ### Retorno
 
 ###### Parâmetros retorno
@@ -30,10 +28,6 @@ Lista as disciplinas inclusas na matrícula do aluno.
 | status | Status referente ao total de pontos                 | (string)   |
 | teachers | Professores                                       | (array)    |
 | teachers['name'] | Nome do professor                         | (string)   |
-
-
-
----
 
 ###### Sucesso
 

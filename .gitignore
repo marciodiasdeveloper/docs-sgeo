@@ -1,0 +1,11 @@
+laravel-docs/node_modules
+laravel-docs/public/hot
+laravel-docs/public/storage
+laravel-docs/storage/*.key
+laravel-docs/vendor
+laravel-docs/.env
+laravel-docs/.phpunit.result.cache
+laravel-docs/Homestead.json
+laravel-docs/Homestead.yaml
+laravel-docs/npm-debug.log
+laravel-docs/yarn-error.log

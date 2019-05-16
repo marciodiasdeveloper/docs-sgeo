@@ -2,11 +2,11 @@
 
 ---
 
-- [Informações da disciplina](#section-discipline)
+- [Informações](#section-discipline)
 - [Notas do aluno na disciplina](#section-results)
 
 <a name="section-discipline"></a>
-### Informações da disciplina
+### Informações
 
 Lista as informações do aluno dentro da disciplina selecionada.
 

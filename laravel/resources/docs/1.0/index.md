@@ -9,5 +9,6 @@
 - ## [Ocorrências](/api/{{version}}/api-student-occurrences)
 - ## [Foto perfil](/api/{{version}}/api-student-occurrences)
 - ## [Editar perfil](/api/{{version}}/api-student-occurrences)
+- ## [Sair da aplicação](/api/{{version}}/api-student-logout)
 
 ---

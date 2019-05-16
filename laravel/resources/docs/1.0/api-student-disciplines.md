@@ -2,12 +2,12 @@
 
 ---
 
-- [Listar disciplinas](#section-disciplines)
+- [Listar](#section-disciplines)
 
 <a name="section-login"></a>
-### Listar disciplinas
+### Listar
 
-Lista as disciplinas inclusas na matrícula do aluno.
+Lista todas as disciplinas inclusas na matrícula do aluno.
 
 ### Requisição
 

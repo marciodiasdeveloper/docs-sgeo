@@ -7,6 +7,46 @@
 
 <a name="section-bulletins"></a>
 
+### Informações do usuário
+
+### Requisição
+
+| Method | Url                                                        |
+|--------|------------------------------------------------------------|
+| GET    | https://api.marciodias.me/api/v1/school/student/user/infos |
+
+
+### Retorno
+
+###### Parâmetros retorno
+
+| Parâmetro                    | Descrição                                       | Formato |
+|----------------------------- |-------------------------------------------------| ------- |
+| school_student_id            | Identificador único do estudante                | integer |
+| school_student_enrollment_id | Identificador único da matrícula                | string  |
+| name                         | Nome do aluno                                   | decimal |
+| course                       | Matriculado no curso                            | decimal |
+| course_schedule              | Turno (Manhã, Tarde e Noite)                    | string  |
+| classe                       | Turma em que o aluno está matrículado           | string  |
+| disciplines                  | Disciplinas em que o aluno está matrículado     | integer |
+| bulletins                    | Número de notas lançadas                        | integer |
+| occurrences                  | Número de ocorrências                           | integer |
+| photo['url']                 | Link, imagem perfil do aluno                    | text    |
+
+###### Sucesso
+
+Status 402 Acceppted
+
+```json 
+{
+    
+}
+```
+
+---
+
+<a name="section-bulletins"></a>
+
 ### Timeline de lançamentos
 
 ### Requisição
@@ -36,7 +76,13 @@ Retorna as últimas notas lançadas para o aluno por ordem de data decrescente
 
 Status 402 Acceppted
 
---
+```json 
+{
+    
+}
+```
+
+---
 
 <!-- <a name="section-dashboard"></a>
 ## Dashboard

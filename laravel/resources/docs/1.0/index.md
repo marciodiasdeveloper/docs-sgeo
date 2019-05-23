@@ -3,7 +3,7 @@
 - ## [Começando](/api/{{version}}/api-student-getting-started)
 - ## [Autenticação](/api/{{version}}/api-student-authentication)
 - ## [Home](/api/{{version}}/api-student-home)
-- ## [Editar perfil](/docs/api/{{version}}/api-school-student-profile)
+- ## [Editar perfil](/api/{{version}}/api-school-student-profile)
 - ## [Disciplinas](/api/{{version}}/api-student-disciplines)
 - ## [Disciplina](/api/{{version}}/api-student-discipline)
 - ## [Avisos e comunicados](/api/{{version}}/api-student-noticeboard)

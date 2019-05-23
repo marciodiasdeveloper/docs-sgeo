@@ -118,8 +118,7 @@ return [
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'colors'         => [
             'primary'    => '#19aa8d',
-            'secondary'  => '#676a6c',
-            'selection'  => '#f4f5f7'
+            'secondary'  => '#676a6c'
         ],
     ],
 
@@ -136,8 +135,8 @@ return [
     */
 
     'seo'                 => [
-        'author'          => '',
-        'description'     => '',
+        'author'          => 'Márcio Dias',
+        'description'     => 'Documentação API mobile (Módulo Gestão Escolar) - SGEO - www.sgeo.com.br',
         'keywords'        => '',
         'og'              => [
             'title'       => '',

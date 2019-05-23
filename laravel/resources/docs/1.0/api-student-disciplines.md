@@ -2,20 +2,18 @@
 
 ---
 
-- [Listar disciplinas](#section-disciplines)
+- [Listar](#section-disciplines)
 
 <a name="section-login"></a>
-### Listar disciplinas
+### Listar
 
-Lista as disciplinas inclusas na matrícula do aluno.
+Lista todas as disciplinas inclusas na matrícula do aluno.
 
 ### Requisição
 
 | Method | Url                                             |
 |--------|-------------------------------------------------|
 | GET   | https://api.marciodias.me/api/v1/school/student/disciplines |
-
----
 
 ### Retorno
 
@@ -30,10 +28,6 @@ Lista as disciplinas inclusas na matrícula do aluno.
 | status | Status referente ao total de pontos                 | (string)   |
 | teachers | Professores                                       | (array)    |
 | teachers['name'] | Nome do professor                         | (string)   |
-
-
-
----
 
 ###### Sucesso
 
